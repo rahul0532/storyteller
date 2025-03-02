@@ -1,5 +1,4 @@
 # storyteller
-# Storyteller
 
 ## Overview
 Storyteller is an AI-powered project designed to generate immersive stories, complete with narration and visuals. It utilizes deep learning models for text generation, text-to-speech conversion, and AI-generated images to create engaging multimedia storytelling experiences.
