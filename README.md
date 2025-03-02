@@ -49,15 +49,6 @@ To set up the project locally, follow these steps:
 - **Regex (re module)** (for text formatting)
 - **Any additional dependencies** listed in `requirements.txt`
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, contact [your email] or open an issue on GitHub.
-
 
 Sample output :
 
